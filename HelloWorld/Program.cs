@@ -5,28 +5,29 @@ namespace HelloWorld
     class Program
     {
         static void Main(string[] args)
-        
         {
-            
+            for (int i = 1; i <= 100; i++)
+            {
+                var isDivisibleByThree = i % 3 == 0;
+                var isDivisibleByFive = i % 5 == 0;
 
-             for (int i = 1; i <= 100; i++)
-             {
-               if( i%3==0) {
-                   
-                 Console.WriteLine("Frizz");
-               } else if (i%5==0)
-               {
-                   Console.WriteLine("Buzz");
-               }
-               else
-               {
-                   Console.WriteLine( i );
-               }
-               
+                if (isDivisibleByThree)
+                {
+                    Console.Write("Frizz");
+                }
 
-             }
+                if (isDivisibleByFive)
+                {
+                    Console.Write("Buzz");
+                }
 
+                if (isDivisibleByFive == false && isDivisibleByThree == false)
+                {
+                    Console.Write(i);
+                }
 
+                Console.WriteLine();
+            }
         }
     }
 }
