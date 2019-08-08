@@ -1,0 +1,11 @@
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.deps.json
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.dll
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.pdb
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.dll
+/Users/helena.franczak/RiderProjects/hello/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.pdb
